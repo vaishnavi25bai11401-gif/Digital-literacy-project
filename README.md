@@ -56,6 +56,9 @@ In this task, I created an infographic explaining the concept of digital literac
 ### Task 2 – Student Digital Portfolio
 For this task, I created or updated professional profiles on platforms such as GitHub, LinkedIn, and Kaggle. These platforms help students showcase their skills, projects, and achievements while building a strong digital presence.
 
+Github reposetry link:
+https://github.com/vaishnavisagarjadhav/vaishnavisagarjadhav
+
 ### Task 3 – Coding and Collaboration Platforms
 In this task, I explored coding practice platforms and cloud collaboration tools. I completed a beginner-level challenge on a coding platform and created a Google Form quiz to test digital literacy awareness among students.
 
