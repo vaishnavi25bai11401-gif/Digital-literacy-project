@@ -103,4 +103,17 @@ In this task, I researched a cybercrime scenario and created a case study explai
 ## Learning Outcome
 Through this project, I gained practical knowledge of digital tools, online communication, and cyber safety. It helped me understand the importance of maintaining a professional digital presence and using the internet responsibly.
 
+## References
+
+The following tools and platforms were used while completing this Digital Literacy Project:
+
+1. GitHub – https://github.com  
+2. LinkedIn – https://www.linkedin.com  
+3. Kaggle – https://www.kaggle.com  
+4. Canva – https://www.canva.com  
+5. HackerRank – https://www.hackerrank.com  
+6. CodeChef – https://www.codechef.com  
+7. Google Forms – https://forms.google.com  
+8. National Cyber Crime Portal – https://cybercrime.gov.in  
+
 ---
