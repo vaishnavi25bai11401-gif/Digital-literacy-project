@@ -1,0 +1,9 @@
+# Case Study: UPI / Online Payment Fraud
+
+UPI (Unified Payments Interface) fraud is one of the most common cybercrimes in India. It occurs when scammers trick people into transferring money through digital payment apps such as Google Pay, PhonePe, or Paytm. These frauds usually happen through social engineering techniques where criminals manipulate victims into revealing sensitive information or approving payment requests.
+
+A typical UPI fraud occurs in several steps. First, the scammer contacts the victim through a phone call, SMS, or social media, pretending to be a bank employee, customer support agent, or even a buyer or seller from an online marketplace. Second, the scammer sends a fake payment request link or QR code and convinces the victim that scanning it will help them receive money. Third, when the victim enters their UPI PIN to approve the request, the money is actually transferred from the victim’s account to the scammer’s account. Finally, the fraudster quickly withdraws or transfers the money to avoid being traced.
+
+The most common targets of this crime are people who are new to digital payments, elderly users, or individuals who are unaware of how UPI transactions work. Small business owners and online marketplace users are also frequently targeted.
+
+The consequences of UPI fraud can be severe. Victims may lose large amounts of money and experience financial stress and emotional distress. It also reduces trust in digital payment systems. To prevent such crimes, users should never share their UPI PIN, avoid scanning unknown QR codes, and verify payment requests carefully before approving them.
